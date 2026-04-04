@@ -1,7 +1,212 @@
-Data,Descrição,Tipo,Valor
-2026-03-01,Depósito Salário,Crédito,3500.00
-2026-03-03,Supermercado XYZ,Débito,-245.90
-2026-03-05,Transferência para João,Débito,-500.00
-2026-03-08,Pagamento Conta de Luz,Débito,-189.75
-2026-03-10,Depósito PIX Maria,Crédito,200.00
-2026-03-12,Restaurante ABC,Débito,-85.50
+Data,Descricao,Tipo,Valor
+2026-01-02,Depósito inicial,Crédito,2500.00
+2026-01-03,Compra supermercado,Débito,-120.45
+2026-01-04,Transferência recebida,Crédito,500.00
+2026-01-05,Pagamento aluguel,Débito,-950.00
+2026-01-06,Compra farmácia,Débito,-45.90
+2026-01-07,Salário,Crédito,3200.00
+2026-01-08,Restaurante,Débito,-89.50
+2026-01-09,Investimento CDB,Débito,-1000.00
+2026-01-10,Resgate CDB,Crédito,1050.00
+2026-01-11,Compra eletrônicos,Débito,-780.00
+2026-01-12,Compra padaria,Débito,-15.20
+2026-01-13,Transferência recebida,Crédito,300.00
+2026-01-14,Pagamento academia,Débito,-120.00
+2026-01-15,Compra roupas,Débito,-250.00
+2026-01-16,Salário,Crédito,3200.00
+2026-01-17,Restaurante,Débito,-95.00
+2026-01-18,Investimento ações,Débito,-1500.00
+2026-01-19,Dividendos ações,Crédito,200.00
+2026-01-20,Compra supermercado,Débito,-210.30
+2026-01-21,Compra farmácia,Débito,-60.00
+2026-01-22,Transferência recebida,Crédito,1000.00
+2026-01-23,Pagamento aluguel,Débito,-950.00
+2026-01-24,Compra eletrônicos,Débito,-1200.00
+2026-01-25,Compra padaria,Débito,-18.50
+2026-01-26,Transferência enviada,Débito,-150.00
+2026-01-27,Depósito cheque,Crédito,600.00
+2026-01-28,Compra roupas,Débito,-340.00
+2026-01-29,Salário,Crédito,3200.00
+2026-01-30,Restaurante,Débito,-110.00
+2026-01-31,Investimento Tesouro Direto,Débito,-2000.00
+2026-02-01,Resgate Tesouro Direto,Crédito,2100.00
+2026-02-02,Compra farmácia,Débito,-75.00
+2026-02-03,Pagamento aluguel,Débito,-950.00
+2026-02-04,Depósito cheque,Crédito,900.00
+2026-02-05,Compra eletrônicos,Débito,-500.00
+2026-02-06,Compra padaria,Débito,-22.00
+2026-02-07,Transferência enviada,Débito,-250.00
+2026-02-08,Salário,Crédito,3200.00
+2026-02-09,Restaurante,Débito,-130.00
+2026-02-10,Dividendos ações,Crédito,180.00
+2026-02-11,Compra roupas,Débito,-280.00
+2026-02-12,Compra supermercado,Débito,-195.00
+2026-02-13,Compra farmácia,Débito,-55.00
+2026-02-14,Pagamento aluguel,Débito,-950.00
+2026-02-15,Depósito cheque,Crédito,1000.00
+2026-02-16,Compra eletrônicos,Débito,-650.00
+2026-02-17,Compra padaria,Débito,-20.00
+2026-02-18,Investimento CDB,Débito,-1200.00
+2026-02-19,Resgate CDB,Crédito,1250.00
+2026-02-20,Restaurante,Débito,-140.00
+2026-02-21,Transferência recebida,Crédito,850.00
+2026-02-22,Compra roupas,Débito,-310.00
+2026-02-23,Compra supermercado,Débito,-205.00
+2026-02-24,Compra farmácia,Débito,-65.00
+2026-02-25,Pagamento aluguel,Débito,-950.00
+2026-02-26,Depósito cheque,Crédito,1200.00
+2026-02-27,Compra eletrônicos,Débito,-720.00
+2026-02-28,Compra padaria,Débito,-25.00
+2026-03-01,Transferência enviada,Débito,-350.00
+2026-03-02,Salário,Crédito,3200.00
+2026-03-03,Restaurante,Débito,-150.00
+2026-03-04,Dividendos ações,Crédito,220.00
+2026-03-05,Compra roupas,Débito,-400.00
+2026-03-06,Compra supermercado,Débito,-220.00
+2026-03-07,Compra farmácia,Débito,-70.00
+2026-03-08,Pagamento aluguel,Débito,-950.00
+2026-03-09,Depósito cheque,Crédito,1300.00
+2026-03-10,Compra eletrônicos,Débito,-800.00
+2026-03-11,Compra padaria,Débito,-28.00
+2026-03-12,Transferência enviada,Débito,-380.00
+2026-03-13,Salário,Crédito,3200.00
+2026-03-14,Restaurante,Débito,-160.00
+2026-03-15,Investimento Tesouro Direto,Débito,-2500.00
+2026-03-16,Resgate Tesouro Direto,Crédito,2600.00
+2026-03-17,Compra supermercado,Débito,-230.00
+2026-03-18,Compra farmácia,Débito,-80.00
+2026-03-19,Pagamento aluguel,Débito,-950.00
+2026-03-20,Depósito cheque,Crédito,1400.00
+2026-03-21,Compra eletrônicos,Débito,-850.00
+2026-03-22,Compra padaria,Débito,-30.00
+2026-03-23,Transferência enviada,Débito,-400.00
+2026-03-24,Salário,Crédito,3200.00
+2026-03-25,Restaurante,Débito,-170.00
+2026-03-26,Dividendos ações,Crédito,250.00
+2026-03-27,Compra roupas,Débito,-450.00
+2026-03-28,Compra supermercado,Débito,-240.00
+2026-03-29,Compra farmácia,Débito,-85.00
+2026-03-30,Pagamento aluguel,Débito,-950.00
+2026-03-31,Depósito cheque,Crédito,1500.00
+2026-04-01,Compra eletrônicos,Débito,-900.00
+2026-04-02,Compra padaria,Débito,-32.00
+2026-04-03,Transferência enviada,Débito,-420.00
+2026-04-04,Salário,Crédito,3200.00
+2026-04-05,Restaurante,Débito,-180.00
+2026-04-06,Investimento ações,Débito,-2000.00
+2026-04-07,Dividendos ações,Crédito,300.00
+2026-04-08,Compra supermercado,Débito,-250.00
+2026-04-09,Compra farmácia,Débito,-90.00
+2026-04-10,Pagamento aluguel,Débito,-950.00
+2026-04-11,Depósito cheque,Crédito,1600.00
+2026-04-12,Compra eletrônicos,Débito,-950.00
+2026-04-13,Compra padaria,Débito,-35.00
+2026-04-14,Transferência enviada,Débito,-450.00
+2026-04-15,Salário,Crédito,3200.00
+2026-04-16,Restaurante,Débito,-190.00
+2026-04-17,Resgate CDB,Crédito,1350.00
+2026-04-18,Compra roupas,Débito,-500.00
+2026-04-19,Compra supermercado,Débito,-260.00
+2026-04-20,Compra farmácia,Débito,-95.00
+2026-04-21,Pagamento aluguel,Débito,-950.00
+2026-04-22,Depósito cheque,Crédito,1700.00
+2026-04-23,Compra eletrônicos,Débito,-1000.00
+2026-04-24,Compra padaria,Débito,-40.00
+2026-04-25,Transferência enviada,Débito,-500.00
+2026-04-26,Salário,Crédito,3200.00
+2026-04-27,Restaurante,Débito,-200.00
+2026-04-28,Investimento ações,Débito,-1800.00
+2026-04-29,Dividendos ações,Crédito,280.00
+2026-04-30,Compra supermercado,Débito,-270.00
+2026-05-01,Compra farmácia,Débito,-100.00
+2026-05-02,Pagamento aluguel,Débito,-950.00
+2026-05-03,Depósito cheque,Crédito,1750.00
+2026-05-04,Compra eletrônicos,Débito,-1100.00
+2026-05-05,Compra padaria,Débito,-42.00
+2026-05-06,Transferência enviada,Débito,-520.00
+2026-05-07,Salário,Crédito,3200.00
+2026-05-08,Restaurante,Débito,-210.00
+2026-05-09,Resgate Tesouro Direto,Crédito,2700.00
+2026-05-10,Compra roupas,Débito,-550.00
+2026-05-11,Compra supermercado,Débito,-280.00
+2026-05-12,Compra farmácia,Débito,-105.00
+2026-05-13,Pagamento aluguel,Débito,-950.00
+2026-05-14,Depósito cheque,Crédito,1800.00
+2026-05-15,Compra eletrônicos,Débito,-1150.00
+2026-05-16,Compra padaria,Débito,-45.00
+2026-05-17,Transferência enviada,Débito,-540.00
+2026-05-18,Salário,Crédito,3200.00
+2026-05-19,Restaurante,Débito,-220.00
+2026-05-20,Investimento CDB,Débito,-1300.00
+2026-05-21,Resgate CDB,Crédito,1350.00
+2026-05-22,Compra roupas,Débito,-600.00
+2026-05-23,Compra supermercado,Débito,-290.00
+2026-05-24,Compra farmácia,Débito,-110.00
+2026-05-25,Pagamento aluguel,Débito,-950.00
+2026-05-26,Depósito cheque,Crédito,1850.00
+2026-05-27,Compra eletrônicos,Débito,-1200.00
+2026-05-28,Compra padaria,Débito,-48.00
+2026-05-29,Transferência enviada,Débito,-560.00
+2026-05-30,Salário,Crédito,3200.00
+2026-05-31,Restaurante,Débito,-230.00
+2026-06-01,Dividendos ações,Crédito,320.00
+2026-06-02,Compra roupas,Débito,-650.00
+2026-06-03,Compra supermercado,Débito,-300.00
+2026-06-04,Compra farmácia,Débito,-115.00
+2026-06-05,Pagamento aluguel,Débito,-950.00
+2026-06-06,Depósito cheque,Crédito,1900.00
+2026-06-07,Compra eletrônicos,Débito,-1250.00
+2026-06-08,Compra padaria,Débito,-50.00
+2026-06-09,Transferência enviada,Débito,-580.00
+2026-06-10,Salário,Crédito,3200.00
+2026-06-11,Restaurante,Débito,-240.00
+2026-06-12,Investimento Tesouro Direto,Débito,-2600.00
+2026-06-13,Resgate Tesouro Direto,Crédito,2700.00
+2026-06-14,Compra roupas,Débito,-700.00
+2026-06-15,Compra supermercado,Débito,-310.00
+2026-06-16,Compra farmácia,Débito,-120.00
+2026-06-17,Pagamento aluguel,Débito,-950.00
+2026-06-18,Depósito cheque,Crédito,1950.00
+2026-06-19,Compra eletrônicos,Débito,-1300.00
+2026-06-20,Compra padaria,Débito,-52.00
+2026-06-21,Transferência enviada,Débito,-600.00
+2026-06-22,Salário,Crédito,3200.00
+2026-06-23,Restaurante,Débito,-250.00
+2026-06-24,Dividendos ações,Crédito,350.00
+2026-06-25,Compra roupas,Débito,-750.00
+2026-06-26,Compra supermercado,Débito,-320.00
+2026-06-27,Compra farmácia,Débito,-125.00
+2026-06-28,Pagamento aluguel,Débito,-950.00
+2026-06-29,Depósito cheque,Crédito,2000.00
+2026-06-30,Compra eletrônicos,Débito,-1350.00
+2026-07-01,Compra padaria,Débito,-55.00
+2026-07-02,Transferência enviada,Débito,-620.00
+2026-07-03,Salário,Crédito,3200.00
+2026-07-04,Restaurante,Débito,-260.00
+2026-07-05,Investimento CDB,Débito,-1400.00
+2026-07-06,Resgate CDB,Crédito,1450.00
+2026-07-07,Compra roupas,Débito,-800.00
+2026-07-08,Compra supermercado,Débito,-330.00
+2026-07-09,Compra farmácia,Débito,-130.00
+2026-07-10,Pagamento aluguel,Débito,-950.00
+2026-07-11,Depósito cheque,Crédito,2050.00
+2026-07-12,Compra eletrônicos,Débito,-1400.00
+2026-07-13,Compra padaria,Débito,-58.00
+2026-07-14,Transferência enviada,Débito,-640.00
+2026-07-15,Salário,Crédito,3200.00
+2026-07-16,Restaurante,Débito,-270.00
+2026-07-17,Dividendos ações,Crédito,380.00
+2026-07-18,Compra roupas,Débito,-850.00
+2026-07-19,Compra supermercado,Débito,-340.00
+2026-07-20,Compra farmácia,Débito,-135.00
+2026-07-21,Pagamento aluguel,Débito,-950.00
+2026-07-22,Depósito cheque,Crédito,2100.00
+2026-07-23,Compra eletrônicos,Débito,-1450.00
+2026-07-24,Compra padaria,Débito,-60.00
+2026-07-25,Transferência enviada,Débito,-660.00
+2026-07-26,Salário,Crédito,3200.00
+2026-07-27,Restaurante,Débito,-280.00
+2026-07-28,Investimento Tesouro Direto,Débito,-2700.00
+2026-07-29,Resgate Tesouro Direto,Crédito,2800.00
+2026-07-30,Compra roupas,Débito,-900.00
+2026-07-31,Compra supermercado,Débito,-350.00
