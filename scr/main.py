@@ -41,10 +41,3 @@ except Exception as e:
     print(f"Ocorreu um erro inesperado: {e}")
 
 
-"""programa deverá:
-Ler o arquivo CSV.
- Calcular o total de receitas. foi
- Calcular o total de despesas. foi
- Exibir o saldo final. foi
- Mostrar um resumo claro no terminal. foi"""
-# receitas sao os valores postivos e despesas os valores negativos. O saldo final e a soma de receitas e despesas.
